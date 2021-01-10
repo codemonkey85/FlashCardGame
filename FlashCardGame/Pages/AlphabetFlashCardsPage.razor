@@ -1,0 +1,9 @@
+﻿@page "/alphabetflashcards"
+<h3>Alphabet Flash Cards</h3>
+<h1 class="@GetLetterClass">@CurrentLetterDisplay</h1>
+<button @onclick="Previous">Previous</button>
+<button @onclick="Next">Next</button>
+<br />
+<button @onclick="Randomize">Randomize</button>
+<br />
+<button @onclick="Reset">Reset</button>
