@@ -23,11 +23,11 @@ jobs:
     - name: Publish .NET Core Project
       run: dotnet publish "FlashCardGame\\FlashCardGame.csproj" -c Release -o release --nologo
     
-    # changes the base-tag in index.html from '/' to 'BlazorGitHubPagesDemo' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to BlazorGitHubPagesDemo
-      run: sed -i 's/<base href="\/" \/>/<base href="\/BlazorGitHubPagesDemo\/" \/>/g' release/wwwroot/index.html
+    # changes the base-tag in index.html from '/' to 'FlashCardGame' to match GitHub Pages repository subdirectory
+    - name: Change base-tag in index.html from / to FlashCardGame
+      run: sed -i 's/<base href="\/" \/>/<base href="\/FlashCardGame\/" \/>/g' release/wwwroot/index.html
 
-    # changes the base-tag in index.html from '/' to 'BlazorGitHubPagesDemo' to match GitHub Pages repository subdirectory
+    # changes the base-tag in index.html from '/' to 'FlashCardGame' to match GitHub Pages repository subdirectory
     - name: Fix service-worker-assets.js hashes
       working-directory: release/wwwroot
       run: |
