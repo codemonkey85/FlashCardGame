@@ -1,3 +1,11 @@
+/* /Pages/AlphabetFlashCardsPage.razor.rz.scp.css */
+.alpha-letter[b-pwshy1dyct] {
+    color: red;
+    font-size: 1000%;
+    border: dashed;
+    width: 200px;
+    text-align: center;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-c99lpgpgbx] {
     position: relative;
