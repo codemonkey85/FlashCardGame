@@ -1,2 +1,2 @@
 # FlashCardGame
-A flash card game
+A flash card game for kids!
