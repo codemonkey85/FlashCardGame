@@ -5,6 +5,16 @@
     border: dashed;
     width: 200px;
     text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+}
+/* /Pages/NumberFlashCardsPage.razor.rz.scp.css */
+.alpha-number[b-livn5intho] {
+    color: red;
+    font-size: 1000%;
+    border: dashed;
+    width: 200px;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
 }
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-c99lpgpgbx] {
@@ -120,15 +130,15 @@
         line-height: 3rem;
     }
 
-.nav-item[b-ehuvf674ia]  a.active {
-    background-color: rgba(255,255,255,0.25);
-    color: white;
-}
+        .nav-item[b-ehuvf674ia]  a.active {
+            background-color: rgba(255,255,255,0.25);
+            color: white;
+        }
 
-.nav-item[b-ehuvf674ia]  a:hover {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
-}
+        .nav-item[b-ehuvf674ia]  a:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+        }
 
 @media (min-width: 641px) {
     .navbar-toggler[b-ehuvf674ia] {

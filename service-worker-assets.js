@@ -65,10 +65,6 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-4Yh4OTT5TEAPNyXEzOG+n5l2HPK294WFItz4SIelj88=",
-      "url": "sample-data\/weather.json"
-    },
-    {
       "hash": "sha256-nXByiCO4+RYyh+A88TSSZDwAJMF7M7Up\/h6dfAA19C8=",
       "url": "_framework\/dotnet.timezones.blat"
     },
@@ -97,7 +93,7 @@
       "url": "_framework\/dotnet.5.0.1.js"
     },
     {
-      "hash": "sha256-CuWYMOuKLhRsVm209lNrdmVEUzvanEv6D6wSL80rloY=",
+      "hash": "sha256-AHMPhA8C8O3y0SsN+9NoqwmwErwVvymQHDkb3LF17OM=",
       "url": "FlashCardGame.styles.css"
     },
     {
@@ -161,7 +157,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-sGlj+\/Q2vVnc+WMXJTbvZjREj26RcT65uWbFKeQXl+0=",
+      "hash": "sha256-lD1G8yBSE2Cd6DVaiCi73FCtQN2vqBAXDUMcXrif1Fk=",
       "url": "_framework\/FlashCardGame.dll"
     },
     {
@@ -233,7 +229,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-vmFTiLKUu5TqxJRM39bezv44urfAcyzqj6DycxlRFpw=",
+      "hash": "sha256-xUn4k1a0+JuO0GiKCeIz0D9FbE3evEHbpJ4h2bu0OCI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -241,5 +237,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "K00qyG00"
+  "version": "AIriHnIx"
 };
