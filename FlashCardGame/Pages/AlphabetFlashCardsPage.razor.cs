@@ -1,34 +1,42 @@
-﻿using System.Collections.Generic;
+﻿using FlashCardGame.Shared;
+using Microsoft.AspNetCore.Components;
+using System.Collections.Generic;
 using System.Linq;
-using FlashCardGame.Shared;
 
 namespace FlashCardGame.Pages
 {
-    public partial class AlphabetFlashCardsPage
+    public partial class AlphabetFlashCardsPage : ComponentBase
     {
-        protected int CurrentLetterValue { get; set; } = 0;
+        protected int CurrentLetterValue = 0;
 
-        protected void Previous() => CurrentLetterValue = CurrentLetterValue == 0 ? 25 : CurrentLetterValue - 1;
+        protected int Minimum = 0;
 
-        protected void Next() => CurrentLetterValue = CurrentLetterValue == 25 ? 0 : CurrentLetterValue + 1;
+        protected int Maximum = 25;
+
+        protected void Previous() => CurrentLetterValue = CurrentLetterValue == Minimum ? Maximum : CurrentLetterValue - 1;
+
+        protected void Next() => CurrentLetterValue = CurrentLetterValue == Maximum ? Minimum : CurrentLetterValue + 1;
 
         protected void Randomize()
         {
             Alphabet.Shuffle();
-            CurrentLetterValue = 0;
+            CurrentLetterValue = Minimum;
         }
 
         protected void Reset()
         {
             Alphabet = Alphabet.OrderBy(a => a).ToList();
-            CurrentLetterValue = 0;
+            CurrentLetterValue = Minimum;
         }
 
         protected string CurrentLetterDisplay => Alphabet[CurrentLetterValue];
 
         protected static string GetLetterClass => "alpha-letter";
 
-        private IList<string> Alphabet { get; set; } = new List<string>
+        private IList<string> Alphabet
+        {
+            get; set;
+        } = new List<string>
         {
             "A",
             "B",
