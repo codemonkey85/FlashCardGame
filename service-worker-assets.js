@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-SO\/fuIIWUxoIu1OABrOpK5n\/AvzxJcg+0H3PT1eutAE=",
+      "hash": "sha256-VtiS4XK5G+W7S8b4U2gTYPd6KTdRuW3Vuv3sh19CV\/U=",
       "url": "css\/app.css"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/dotnet.5.0.1.js"
     },
     {
-      "hash": "sha256-AHMPhA8C8O3y0SsN+9NoqwmwErwVvymQHDkb3LF17OM=",
+      "hash": "sha256-LIK1Zop6Pu6QGKKEiFAOQzJD5vt71Ky1KsMnpbyhiVA=",
       "url": "FlashCardGame.styles.css"
     },
     {
@@ -237,5 +237,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "AIriHnIx"
+  "version": "fAPKwZdb"
 };
