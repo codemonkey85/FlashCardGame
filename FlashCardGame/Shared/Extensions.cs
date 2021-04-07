@@ -5,7 +5,7 @@ namespace FlashCardGame.Shared
 {
     public static class Extensions
     {
-        private static Random rng = new Random();
+        private static readonly Random rng = new();
 
         public static void Shuffle<T>(this IList<T> list)
         {
