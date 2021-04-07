@@ -97,15 +97,15 @@
       "url": "FlashCardGame.styles.css"
     },
     {
-      "hash": "sha256-HHVuTGkYseIkdOLKwovrlsAh+XGW2ANKtLd2QwOjaMQ=",
+      "hash": "sha256-+5mxpgyBYFdfyZ557uSROK7bcf+VIlG5yHwCh1q1k+o=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-1gOWiyx9Kcyz7hNzGkxIM2SaRD2631HjSUhDtVrkU6s=",
+      "hash": "sha256-ZcNLy++mQnAHUASL8VOJI3bUHWFgFAujhZ4Xhgl+LR4=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-L7iRwoGUzEEcN+5tFqeHZoiMGvJL3SGiVudXXISfOmE=",
+      "hash": "sha256-WWIuUjsnjvkrWbop5SFKSAmQvV98QMDq3lGZBVNVeFY=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -145,11 +145,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-lVeT\/mUjzwSkVF0bZaNFwFi7rmUf+jMU61e0IuqjsV0=",
+      "hash": "sha256-LdDuq+S0QOvo7ABGCoI9IIwv59fM0MYdUbbZ\/DKu7pk=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-HPiYjzuItf0u8j\/1JyLX28frakdbKfRPChJZA1FEJjE=",
+      "hash": "sha256-BAtOvcFEyZD9Ri0p2J3817Dix5MZpPSaQ8WRLE3FRKM=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-lD1G8yBSE2Cd6DVaiCi73FCtQN2vqBAXDUMcXrif1Fk=",
+      "hash": "sha256-6euM\/0geXTpdE+9oCtDg+79C4HJukNitLB6B7urtaPU=",
       "url": "_framework\/FlashCardGame.dll"
     },
     {
@@ -229,13 +229,13 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-xUn4k1a0+JuO0GiKCeIz0D9FbE3evEHbpJ4h2bu0OCI=",
+      "hash": "sha256-oMVe2c8c20E7c7TgmzyJAEKIkQ7l3xVaLcSDqBkoUzU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-sYA0L2visb01XnqGT7epPVSXTZJFhpQ4PMDzhF\/rngo=",
+      "hash": "sha256-dl8FVRvWOJfOtzIC\/x66QNnBNsT9cAOMrn22GB8fJ8U=",
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "fAPKwZdb"
+  "version": "hpzOxfQm"
 };
