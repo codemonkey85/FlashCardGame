@@ -97,15 +97,15 @@
       "url": "FlashCardGame.styles.css"
     },
     {
-      "hash": "sha256-+5mxpgyBYFdfyZ557uSROK7bcf+VIlG5yHwCh1q1k+o=",
+      "hash": "sha256-XTsavbgRpIguDhBkxCqIKRHeyoXJtZY1nV3C1oKIfSg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-ZcNLy++mQnAHUASL8VOJI3bUHWFgFAujhZ4Xhgl+LR4=",
+      "hash": "sha256-Zpz0odPAgYBTmyWR89Z\/LPrGnNuGAYzf0yLynXshTAI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-WWIuUjsnjvkrWbop5SFKSAmQvV98QMDq3lGZBVNVeFY=",
+      "hash": "sha256-1VpS2w674UBboB7RSvQ+0w626Dp07cak\/OmIUiWuVGA=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -145,11 +145,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-LdDuq+S0QOvo7ABGCoI9IIwv59fM0MYdUbbZ\/DKu7pk=",
+      "hash": "sha256-sUjqVrh2Q9Ti68UTt6VhS+bmRt1BGsZM8tVIK69fHM8=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-BAtOvcFEyZD9Ri0p2J3817Dix5MZpPSaQ8WRLE3FRKM=",
+      "hash": "sha256-uJLUw9XzHuJvg24MjIpf\/cAxCh1nXtCXBwROpjxObjo=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-6euM\/0geXTpdE+9oCtDg+79C4HJukNitLB6B7urtaPU=",
+      "hash": "sha256-DHH6DvpavZd8NCKaGzdlnI9XRx6p8a0xtcCUotUTa4Y=",
       "url": "_framework\/FlashCardGame.dll"
     },
     {
@@ -229,7 +229,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-oMVe2c8c20E7c7TgmzyJAEKIkQ7l3xVaLcSDqBkoUzU=",
+      "hash": "sha256-p0Ms+Y3yaoihyf8vKozLM52thm1lLpHwQ7V8XhZ10Yg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -237,5 +237,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "hpzOxfQm"
+  "version": "NbnNYa5y"
 };
