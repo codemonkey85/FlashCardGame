@@ -97,15 +97,15 @@
       "url": "FlashCardGame.styles.css"
     },
     {
-      "hash": "sha256-XTsavbgRpIguDhBkxCqIKRHeyoXJtZY1nV3C1oKIfSg=",
+      "hash": "sha256-K6QkVDJv68icTKYaJrch3pNEBKfD7VBEELrbEuqLsNo=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-Zpz0odPAgYBTmyWR89Z\/LPrGnNuGAYzf0yLynXshTAI=",
+      "hash": "sha256-+jQ93vmX4Tz7hTA+3QbrkZ3oVz+NEP8HNaciljhQt1Y=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-1VpS2w674UBboB7RSvQ+0w626Dp07cak\/OmIUiWuVGA=",
+      "hash": "sha256-nGQtNGQGzYmXIQCO1APYuixyAMyKyVocRPFlywszgMo=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
@@ -121,7 +121,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-Fj3WO6cw4Pbh90sLIj2PrTMuVvIx62jfLSxrP7tylyI=",
+      "hash": "sha256-FeC8HgxeanM762z1oRQhKGnqVlpZD2VQwi9E+ifxngk=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
@@ -145,11 +145,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-sUjqVrh2Q9Ti68UTt6VhS+bmRt1BGsZM8tVIK69fHM8=",
+      "hash": "sha256-tsc97SfPJxcNxMNDVOSwzTisbNsPf2pPGe0gMV\/72+k=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-uJLUw9XzHuJvg24MjIpf\/cAxCh1nXtCXBwROpjxObjo=",
+      "hash": "sha256-421zIgHVXw1yI4x0B5ZA\/fW+I63Upuw5ZddGvWp4FSw=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-DHH6DvpavZd8NCKaGzdlnI9XRx6p8a0xtcCUotUTa4Y=",
+      "hash": "sha256-oluTy+XzCckOYx1XfcENCgKjkPIRVDOG+TpycAO0Qg4=",
       "url": "_framework\/FlashCardGame.dll"
     },
     {
@@ -229,7 +229,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-p0Ms+Y3yaoihyf8vKozLM52thm1lLpHwQ7V8XhZ10Yg=",
+      "hash": "sha256-T\/01pE841wf4g8qHuJYaJc8STekiaFDj0Xz0ypj+2JA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -237,5 +237,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "NbnNYa5y"
+  "version": "wNw8m2mJ"
 };
