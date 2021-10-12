@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-+d56mJwYth1GupUTmFM21ggBz13X1hQ8aRyb0IzH86I=",
+      "hash": "sha256-8xt9W8PE46pxCLYScadRGaUAh52FzzGCFbvd81zIfMY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-xq5ql6kP50PylOpFxmPbPQRX3KcT4\/qlQKrVS25IDUQ=",
+      "hash": "sha256-uEKQOIPnn49oD0ik0VsKOAxxlrs2hsG1wuJ3FxS60p0=",
       "url": "_framework\/FlashCardGame.dll"
     },
     {
@@ -221,5 +221,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "kTaUjqJK"
+  "version": "jTUVl2Th"
 };

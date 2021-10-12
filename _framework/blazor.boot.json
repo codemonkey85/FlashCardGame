@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "FlashCardGame.dll": "sha256-xq5ql6kP50PylOpFxmPbPQRX3KcT4\/qlQKrVS25IDUQ=",
+      "FlashCardGame.dll": "sha256-uEKQOIPnn49oD0ik0VsKOAxxlrs2hsG1wuJ3FxS60p0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-vBne7AwvGxKVPUy08JzJnF08q+dBP4IneclgatQk63I=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-n0KfiZoLyV0UzK1l6er3ZrlJ0y8\/NpOWJXkFz+aiBLU=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-zDm1W+8xhczn35jGLuz5LXoFyoy4qDZrLxHkPX5VLW8=",
