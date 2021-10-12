@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace FlashCardGame.Shared
+﻿namespace FlashCardGame.Shared
 {
     public static class Extensions
     {

@@ -1,9 +1,4 @@
-﻿using FlashCardGame.Shared;
-using Microsoft.AspNetCore.Components;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace FlashCardGame.Pages
+﻿namespace FlashCardGame.Pages
 {
     public partial class AlphabetFlashCardsPage : ComponentBase
     {
