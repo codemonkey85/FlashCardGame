@@ -153,11 +153,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-LIK1Zop6Pu6QGKKEiFAOQzJD5vt71Ky1KsMnpbyhiVA=",
+      "hash": "sha256-d0VOHcyVMdaRvzlbGdRWIMdqAq2AgVqL2wMjm4rD6ns=",
       "url": "FlashCardGame.styles.css"
     },
     {
-      "hash": "sha256-VtiS4XK5G+W7S8b4U2gTYPd6KTdRuW3Vuv3sh19CV\/U=",
+      "hash": "sha256-qCDFLodM\/7WF3bFvh9Sk7cnxEgiYk0KqIyRCqVWtneQ=",
       "url": "css\/app.css"
     },
     {
@@ -221,5 +221,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "jTUVl2Th"
+  "version": "A2Pj9wpc"
 };
