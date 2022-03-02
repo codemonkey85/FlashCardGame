@@ -33,7 +33,7 @@ public partial class NumberFlashCardsPage : ComponentBase
     private void ReloadRange(bool isRandom)
     {
         NumberRange.Clear();
-        for (int i = Minimum; i <= Maximum; i++)
+        for (var i = Minimum; i <= Maximum; i++)
         {
             NumberRange.Add(i);
         }
